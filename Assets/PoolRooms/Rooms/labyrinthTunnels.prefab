@@ -1513,6 +1513,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &1886378202300197292
 GameObject:
@@ -1701,6 +1702,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &2231135453014651829
 GameObject:
@@ -2160,6 +2162,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &2740797500461782531
 GameObject:
@@ -2481,6 +2484,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &2962921702279481477
 GameObject:
@@ -3308,6 +3312,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &4317361106225899430
 GameObject:
@@ -3569,6 +3574,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &4665822570296467632
 GameObject:
@@ -3806,6 +3812,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &4876854137398757051
 GameObject:
@@ -4290,6 +4297,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &5347723748484686144
 GameObject:
@@ -5496,6 +5504,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &7005080119761385373
 GameObject:
@@ -5710,14 +5719,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   allowImmediateRepeats: 1
+  Entrance: {fileID: 0}
+  Exit: {fileID: 0}
   AllowRotation: 1
   RepeatMode: 1
   OverrideAutomaticTileBounds: 1
   TileBoundsOverride:
     m_Center: {x: 12, y: 2.75, z: 0}
     m_Extent: {x: 18, y: 5.25, z: 18}
-  Entrance: {fileID: 0}
-  Exit: {fileID: 0}
+  Entrances: []
+  Exits: []
   OverrideConnectionChance: 0
   ConnectionChance: 0
   Tags:
@@ -5730,6 +5741,7 @@ MonoBehaviour:
     normalizedPathDepth: 0
     branchDepth: 0
     normalizedBranchDepth: 0
+    branchId: -1
     isOnMainPath: 0
     localBounds:
       m_Center: {x: 0, y: 0, z: 0}
@@ -5757,7 +5769,7 @@ MonoBehaviour:
     tileSet: {fileID: 0}
     position: {x: 0, y: 0, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
-  fileVersion: 1
+  fileVersion: 2
 --- !u!1 &7173218845231041171
 GameObject:
   m_ObjectHideFlags: 0
@@ -5828,6 +5840,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &7202838210749242701
 GameObject:
@@ -6280,6 +6293,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &7783020589942955522
 GameObject:
@@ -6465,6 +6479,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &8062822386356045245
 GameObject:
@@ -7148,6 +7163,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7638616332241309380}
     m_Modifications:
+    - target: {fileID: 3603420432846771266, guid: 1870e11998470224383c246d5cad9276, type: 3}
+      propertyPath: BranchPathWeight
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4939932427024674974, guid: 1870e11998470224383c246d5cad9276, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12.000003
@@ -7536,6 +7555,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7638616332241309380}
     m_Modifications:
+    - target: {fileID: 3603420432846771266, guid: 1870e11998470224383c246d5cad9276, type: 3}
+      propertyPath: BranchPathWeight
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4939932427024674974, guid: 1870e11998470224383c246d5cad9276, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.06
@@ -7664,6 +7687,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7638616332241309380}
     m_Modifications:
+    - target: {fileID: 3603420432846771266, guid: 1870e11998470224383c246d5cad9276, type: 3}
+      propertyPath: BranchPathWeight
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4939932427024674974, guid: 1870e11998470224383c246d5cad9276, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12.000003
@@ -8113,6 +8140,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7638616332241309380}
     m_Modifications:
+    - target: {fileID: 3603420432846771266, guid: 1870e11998470224383c246d5cad9276, type: 3}
+      propertyPath: BranchPathWeight
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4939932427024674974, guid: 1870e11998470224383c246d5cad9276, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.06
@@ -8945,6 +8976,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7638616332241309380}
     m_Modifications:
+    - target: {fileID: 3603420432846771266, guid: 1870e11998470224383c246d5cad9276, type: 3}
+      propertyPath: BranchPathWeight
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4939932427024674974, guid: 1870e11998470224383c246d5cad9276, type: 3}
       propertyPath: m_LocalPosition.x
       value: 24.000004
@@ -9325,6 +9360,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7638616332241309380}
     m_Modifications:
+    - target: {fileID: 3603420432846771266, guid: 1870e11998470224383c246d5cad9276, type: 3}
+      propertyPath: BranchPathWeight
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4939932427024674974, guid: 1870e11998470224383c246d5cad9276, type: 3}
       propertyPath: m_LocalPosition.x
       value: 24.000004

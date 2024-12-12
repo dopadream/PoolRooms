@@ -315,7 +315,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnableItems: {fileID: 11400000, guid: 77ba52bacccd14145bcce9b6554e1e81, type: 2}
-  itemSpawnRange: 15
+  itemSpawnRange: 1
   spawnedItemsCopyPosition: 1
   spawnUsed: 0
 --- !u!1 &4705386897130165786

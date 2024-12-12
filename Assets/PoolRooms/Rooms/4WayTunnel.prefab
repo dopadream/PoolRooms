@@ -1085,6 +1085,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &2693900314320833115
 GameObject:
@@ -1325,6 +1326,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &3225436485226931710
 GameObject:
@@ -2103,6 +2105,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &4827824259639846525
 GameObject:
@@ -3165,14 +3168,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   allowImmediateRepeats: 1
+  Entrance: {fileID: 0}
+  Exit: {fileID: 0}
   AllowRotation: 1
   RepeatMode: 0
   OverrideAutomaticTileBounds: 1
   TileBoundsOverride:
     m_Center: {x: 0, y: 2.75, z: 0}
     m_Extent: {x: 6, y: 5.25, z: 6}
-  Entrance: {fileID: 0}
-  Exit: {fileID: 0}
+  Entrances: []
+  Exits: []
   OverrideConnectionChance: 0
   ConnectionChance: 0
   Tags:
@@ -3185,6 +3190,7 @@ MonoBehaviour:
     normalizedPathDepth: 0
     branchDepth: 0
     normalizedBranchDepth: 0
+    branchId: -1
     isOnMainPath: 0
     localBounds:
       m_Center: {x: 0, y: 0, z: 0}
@@ -3212,7 +3218,7 @@ MonoBehaviour:
     tileSet: {fileID: 0}
     position: {x: 0, y: 0, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
-  fileVersion: 1
+  fileVersion: 2
 --- !u!1 &7179862425658098884
 GameObject:
   m_ObjectHideFlags: 0
@@ -3573,6 +3579,7 @@ MonoBehaviour:
   tile: {fileID: 0}
   connectedDoorway: {fileID: 0}
   hideConditionalObjects: 0
+  spawnedBlockerPrefab: {fileID: 0}
   fileVersion: 1
 --- !u!1 &7813118105566976974
 GameObject:
@@ -4241,6 +4248,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7638616332241309380}
     m_Modifications:
+    - target: {fileID: 3603420432846771266, guid: 1870e11998470224383c246d5cad9276, type: 3}
+      propertyPath: BranchPathWeight
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4939932427024674974, guid: 1870e11998470224383c246d5cad9276, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.06
@@ -4445,6 +4456,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7638616332241309380}
     m_Modifications:
+    - target: {fileID: 3603420432846771266, guid: 1870e11998470224383c246d5cad9276, type: 3}
+      propertyPath: BranchPathWeight
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4939932427024674974, guid: 1870e11998470224383c246d5cad9276, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.06
