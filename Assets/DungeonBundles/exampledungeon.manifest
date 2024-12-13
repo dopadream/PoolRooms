@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 3349072969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1af5b7ce2a540caae3b8ff85079cb7d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b2c21ba036a09d6866daeb9b245a7b6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1af5b7ce2a540caae3b8ff85079cb7d8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89377a5c2dcb66b40af385ad8492cda9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94f10ed4536484ae40a507a235b54583, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b5a3ed4d4d53c21e962b1a5208dbf57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4d7fdc2f82e8404a870095acb8edcad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bc87adda6636974cb5d0eb070cc3835, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59296c11d75e7024ebd73d93f5babf99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64c6de9b64f5fa50ab3e1e87d281e1ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4db6514a2e4e194bbd1c6bdae54f388, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 238d443cf4b172f4989d5ce455c57c3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf1473be2fdebe220e46d27c67438ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e228b45736a8cf4ea000616e628a4dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32a188f8ee195cf4cb8b2fdccd193b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc615723168fad2d87ed05ea97e3b88f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectChance
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectChanceTable
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectWeight
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.DungeonFlow/GlobalPropSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.GraphLine
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.GraphNode
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.IntRange
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Tags.TagContainer
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.TilePlacementData
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Single]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[Unity.Netcode.NetworkBehaviour]
+Assets:
+- Assets/Example/Dummies/ExampleDungeon_TabletopItems_DUMMY.asset
+- Assets/Example/Rooms/Entrance.prefab
+- Assets/Example/Flow/ExampleDoorway.asset
+- Assets/Example/Rooms/Hole.prefab
+- Assets/Example/Rooms/4way.prefab
+- Assets/Example/Flow/ExampleArchetype.asset
+- Assets/Example/Rooms/DoorBlockerNoExit.prefab
+- Assets/Example/Meshes/stairs.fbx
+- Assets/Example/Flow/ExampleFlow.asset
+- Assets/Example/Materials/FrontDoor.mat
+- Assets/Example/Materials/RedDoor.mat
+- Assets/Example/Meshes/hole.fbx
+- Assets/Example/Flow/ExampleTileSet_NoStairs.asset
+- Assets/Example/Meshes/player_size.fbx
+- Assets/Example/Materials/GreyVent.mat
+- Assets/Example/Dummies/ExampleDungeon_SmallItems_DUMMY.asset
+- Assets/Example/Rooms/Special.prefab
+- Assets/Example/Dummies/ExampleDungeon_EntranceTeleportA_DUMMY.prefab
+- Assets/Example/Dummies/ExampleDungeon_StorageShelf_DUMMY.prefab
+- Assets/Example/Dummies/Landmine.prefab
+- Assets/Example/Dummies/ExampleDungeon_EntranceTeleportB_DUMMY.prefab
+- Assets/Example/Meshes/4way.fbx
+- Assets/Example/Meshes/DoorBlocker.fbx
+- Assets/Example/Dummies/TurretContainer.prefab
+- Assets/Example/Rooms/DoorBlocker.prefab
+- Assets/Example/Rooms/Stairs.prefab
+- Assets/Example/Dummies/ExampleDungeon_Vent_DUMMY.prefab
+- Assets/Example/Dummies/ExampleDungeon_GeneralItemClass_DUMMY.asset
+- Assets/Example/Flow/ExampleTileSet.asset
+Dependencies: []

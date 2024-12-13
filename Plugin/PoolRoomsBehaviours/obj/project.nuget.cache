@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aha7oqCg5Afss8tXpzSqWaK9UVYtJKQI4xdgViSHCeUIw66dLGDCTSGdcnns2lnEVvUW3DUfecY35f7v+vfm0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stephanie\\Documents\\GitHubProjects\\PoolRooms\\Plugin\\PoolRoomsBehaviours\\PoolRoomsBehaviours.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephanie\\.nuget\\packages\\unityengine.modules\\2022.3.9\\unityengine.modules.2022.3.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,629 @@
+ManifestFileVersion: 0
+CRC: 3273304721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21f0875b2904d91c565d861ed420ae23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e96aff48c6b63d0ea955e0021ad9ab9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 21f0875b2904d91c565d861ed420ae23
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 597691195, guid: 63da9ea0fbe25f742ba00dd11022453f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34d3295ff97986b48a0735f1d9648ca9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a6709c94b4740e41b451332df3797b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89377a5c2dcb66b40af385ad8492cda9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94f10ed4536484ae40a507a235b54583, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b5a3ed4d4d53c21e962b1a5208dbf57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4d7fdc2f82e8404a870095acb8edcad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb9b54c3bce6fdf429ee55a4cc56f1b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 343119d9f01bdae4f976d8946b316a96, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bc87adda6636974cb5d0eb070cc3835, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59296c11d75e7024ebd73d93f5babf99, type: 3}
+- Class: 114
+  Script: {fileID: -1154231644, guid: 63da9ea0fbe25f742ba00dd11022453f, type: 3}
+- Class: 114
+  Script: {fileID: -558855945, guid: 63da9ea0fbe25f742ba00dd11022453f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64c6de9b64f5fa50ab3e1e87d281e1ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0e857ed656e96a4fb166662994c9ccc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4db6514a2e4e194bbd1c6bdae54f388, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 238d443cf4b172f4989d5ce455c57c3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf1473be2fdebe220e46d27c67438ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e228b45736a8cf4ea000616e628a4dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce760f3b46c73a14797576e6bea194c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4435ceab0d1046847a1770145054fea2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32a188f8ee195cf4cb8b2fdccd193b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc615723168fad2d87ed05ea97e3b88f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 164
+  Script: {instanceID: 0}
+- Class: 169
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+- AssemblyName: Assembly-CSharp
+  ClassName: BooleanEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectChance
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectChanceTable
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectWeight
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.DungeonFlow/GlobalPropSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.GraphLine
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.GraphNode
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.IntRange
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Tags.TagContainer
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.TilePlacementData
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Single]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[Unity.Netcode.NetworkBehaviour]
+Assets:
+- Assets/PoolRooms/Materials/BlockerRadar.mat
+- Assets/PoolRooms/Textures/PoolTiles/T_White_Ceramic_Tiles_uhrjcdaew_2K_D.png
+- Assets/PoolRooms/Materials/Pool/PoolGrout.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pump1_BaseMap.1001.png
+- Assets/PoolRooms/Prefabs/DisplayStand.prefab
+- Assets/PoolRooms/Meshes/Palms/M_Palm_1.fbx
+- Assets/PoolRooms/Sound/Diagetic.mixer
+- Assets/PoolRooms/Materials/Bathrooms/SignClean.mat
+- Assets/PoolRooms/Textures/Pitfall/Intake2.mat
+- Assets/PoolRooms/Meshes/LethalLight_nostem.fbx
+- Assets/PoolRooms/Textures/PoolTiles/T_White_Ceramic_Tiles_uhrjcdaew_2K_.png
+- Assets/PoolRooms/Textures/Pitfall/Pipes9.mat
+- Assets/PoolRooms/Rooms/SpiralStairs.prefab
+- Assets/PoolRooms/Textures/PoolStuff/Wood/BaseWood_basecolor.png
+- Assets/PoolRooms/Materials/Ceiling/CeilingTiles.mat
+- Assets/PoolRooms/DoorBlockers/PoolRoomBlockerWithExit.prefab
+- Assets/PoolRooms/Prefabs/SteamValve.prefab
+- Assets/PoolRooms/Prefabs/Vent.prefab
+- Assets/PoolRooms/Materials/Items/PoolBall.mat
+- Assets/PoolRooms/Textures/Bathrooms/SignAir.png
+- Assets/PoolRooms/Textures/Metal/TexturesCom_Metal_SteelBattered_512_normal.png
+- Assets/PoolRooms/Textures/Pitfall/PitWalls/pit_walls_ConcreteMidWalls_Normal.1001.png
+- Assets/PoolRooms/Materials/BigDoorDummy.mat
+- Assets/PoolRooms/Textures/Items/Myach_DefaultMaterial_BaseColor.png
+- Assets/PoolRooms/Textures/PoolTile/T_PoolTile_MTAODPR.png
+- Assets/PoolRooms/Meshes/EntranceDoor.fbx
+- Assets/PoolRooms/Textures/PoolStuff/Plastic/Plastic_Normal.png
+- Assets/PoolRooms/Textures/Stone/stones.png
+- Assets/PoolRooms/Meshes/Materials/Line002Mat.mat
+- Assets/PoolRooms/Materials/Apparatus/YellowMachine.mat
+- Assets/PoolRooms/Textures/Concrete/T_Concrete_MTAODPR.png
+- Assets/PoolRooms/Textures/Pitfall/GeneratorWood.mat
+- Assets/PoolRooms/Animators/HangingLightFlicker.anim
+- Assets/PoolRooms/Textures/Apparatus/SteelBolt.png
+- Assets/PoolRooms/Texture2D/HandLadderIcon.png
+- Assets/PoolRooms/Textures/PoolStuff/Wood/BaseWood_normal.png
+- Assets/PoolRooms/Rooms/3WayTunnel.prefab
+- Assets/PoolRooms/Textures/Metal/TexturesCom_Metal_SteelBattered_512_roughness.png
+- Assets/PoolRooms/Textures/Pitfall/Pipes4.mat
+- Assets/PoolRooms/Sound/splash1.WAV
+- Assets/PoolRooms/Flow/PoolRoomsFlow.asset
+- Assets/PoolRooms/Flow/PoolSaunaEnds.asset
+- Assets/PoolRooms/Materials/PoolStuff/Wood.mat
+- Assets/PoolRooms/Prefabs/Windows/WindowA.prefab
+- Assets/PoolRooms/Materials/Particles/SplashMat.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Generator_MaskMap.1001.png
+- Assets/PoolRooms/Materials/Bathrooms/WhiteWall.mat
+- Assets/PoolRooms/Textures/PoolTile/T_Swimming_Pool_Tiles_tlfmffydy_2K_N.png
+- Assets/PoolRooms/Materials/PoolStuff/Concrete.mat
+- Assets/PoolRooms/Materials/WallAndFloor/Wood.mat
+- Assets/PoolRooms/Water/Textures/PoolRoomsWater.mat
+- Assets/PoolRooms/Water/plane.fbx
+- Assets/PoolRooms/Materials/LEDLight.mat
+- Assets/PoolRooms/DoorBlockers/StuccoRoomBlocker.prefab
+- Assets/PoolRooms/Prefabs/Windows/WindowB.prefab
+- Assets/PoolRooms/Meshes/Palms/M_Palm_2.fbx
+- Assets/PoolRooms/Textures/Palms/Palm/Trunk/Palm_Break.TGA
+- Assets/PoolRooms/Materials/Bathrooms/WhiteCeramic.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pump2_BaseMap.1001.png
+- Assets/PoolRooms/Materials/PoolStuff/Plaster_Green.mat
+- Assets/PoolRooms/Materials/PoolStuff/Plastic_Pink.mat
+- Assets/PoolRooms/Prefabs/Scrap/WetFloorSign.prefab
+- Assets/PoolRooms/Meshes/FoldingChair.FBX
+- Assets/PoolRooms/Materials/LightOff.mat
+- Assets/PoolRooms/Materials/PoolStuff/Plastic_Blue 1.mat
+- Assets/PoolRooms/Meshes/Palms/M_Palm_4.fbx
+- Assets/PoolRooms/Dummies/VentEntrance.prefab
+- Assets/PoolRooms/Animators/PoolDoorClose.anim
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler2_MaskMap.1001.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler2_intakes_Normal.1001.png
+- Assets/PoolRooms/DoorBlockers/TileRoomBlockerWithWindow.prefab
+- Assets/PoolRooms/Materials/WallAndFloor/PoolTiles.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Intake2_Normal.1001.png
+- Assets/PoolRooms/Dummies/PoolRooms_SmallItems_DUMMY.asset
+- Assets/PoolRooms/Water/Shaders/Water.shadergraph
+- Assets/PoolRooms/Textures/SmallTiles/T_SmallTiles_MTAODPR.png
+- Assets/PoolRooms/Meshes/LethalPipes.fbx
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes9_Normal.1001.png
+- Assets/PoolRooms/Flow/PoolHallwaysTileSet.asset
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes6_Normal.1001.png
+- Assets/PoolRooms/DoorBlockers/TileRoomBlocker.prefab
+- Assets/PoolRooms/Textures/WoodWall/T_Wooden_Planks_ucvlaejg_2K_D.png
+- Assets/PoolRooms/Materials/Bathrooms/Translucent dark plastic.mat
+- Assets/PoolRooms/Meshes/Palms/M_Palm_5.fbx
+- Assets/PoolRooms/Prefabs/FireExit.prefab
+- Assets/PoolRooms/Materials/Stone/Rock.mat
+- Assets/PoolRooms/Materials/PoolStuff/Tiles_Blue.mat
+- Assets/PoolRooms/Materials/Palms/PalmDirt.mat
+- Assets/PoolRooms/Textures/FloorTiles/T_Concrete_Floor_Tiles_vl0gfdalw_2K_D.png
+- Assets/PoolRooms/Materials/Apparatus/SteelBolt.mat
+- Assets/PoolRooms/Materials/Palms/PalmLeaf.mat
+- Assets/PoolRooms/Materials/Floors/EntranceFloorTiles.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_GeneratorWood_MaskMap.1001.png
+- Assets/PoolRooms/Sound/DropPlastic1.ogg
+- Assets/PoolRooms/Meshes/NormalDoorBlockerWhiteCement.fbx
+- Assets/PoolRooms/Prefabs/EntranceDoor.prefab
+- Assets/PoolRooms/Meshes/SteelDoorMapModel.fbx
+- Assets/PoolRooms/Prefabs/WallDoorFrameHolder.prefab
+- Assets/PoolRooms/Texture2D/ScrapItemIcon2.png
+- Assets/PoolRooms/Textures/Palms/Palm/Trunk/Palm_BreaK_NR.TGA
+- Assets/PoolRooms/Meshes/PoolsRoomPillars.fbx
+- Assets/PoolRooms/Meshes/Pillar.FBX
+- Assets/PoolRooms/Textures/PoolStuff/Plastic/Plastic_Basecolor.png
+- Assets/PoolRooms/Animators/CeilingFan.controller
+- Assets/PoolRooms/Prefabs/BathroomStallDoor.prefab
+- Assets/PoolRooms/Prefabs/LethalLight.prefab
+- Assets/PoolRooms/Prefabs/LockerDoorNotOpenable.prefab
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes6_BaseMap.1001.png
+- Assets/PoolRooms/Materials/Bathrooms/SignBathroom.mat
+- Assets/PoolRooms/Materials/Walls/PoolWallTiles.mat
+- Assets/PoolRooms/Textures/PoolBorder/pool_border_PoolStone_MaskMap.1001.png
+- Assets/PoolRooms/Textures/Pitfall/GeneratorHolders.mat
+- Assets/PoolRooms/Sound/splash2.WAV
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes4_BaseMap.1001.png
+- Assets/PoolRooms/Meshes/Materials/FlatMetal_basecolor.mat
+- Assets/PoolRooms/Flow/PoolLockersArchitype.asset
+- Assets/PoolRooms/Textures/StuccoWall/T_Stucco_Facade_wi5hccujw_2K_D.png
+- Assets/PoolRooms/Dummies/Landmine.prefab
+- Assets/PoolRooms/Prefabs/Scrap/PoolNet.prefab
+- Assets/PoolRooms/Meshes/StairsPillars.fbx
+- Assets/PoolRooms/Rooms/LockerRoomLong.prefab
+- Assets/PoolRooms/Prefabs/Pools/ChairRow.prefab
+- Assets/PoolRooms/Materials/WallAndFloor/StuccoSurface.mat
+- Assets/PoolRooms/Sound/MetalSqueak1.ogg
+- Assets/PoolRooms/Textures/FloorTiles/T_ConcreteFloor_MTAODPR.png
+- Assets/PoolRooms/Rooms/LargeBridgePool.prefab
+- Assets/PoolRooms/Prefabs/LethalPoolLight.prefab
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes9_MaskMap.1001.png
+- Assets/PoolRooms/Materials/Bathrooms/Ceiling.mat
+- Assets/PoolRooms/Dummies/TurretContainer.prefab
+- Assets/PoolRooms/Dummies/StorageShelfContainer.prefab
+- Assets/PoolRooms/Meshes/TribuneStairs.FBX
+- Assets/PoolRooms/Materials/Bathrooms/MenSign.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler2_BaseMap.1001.png
+- Assets/PoolRooms/Meshes/LungDockingStation2.fbx
+- Assets/PoolRooms/Meshes/Palms/Materials/Leaf.mat
+- Assets/PoolRooms/Materials/Palms/PalmBreak.mat
+- Assets/PoolRooms/Animators/StallDoorOpen.anim
+- Assets/PoolRooms/Textures/Bathrooms/SinkTexture.png
+- Assets/PoolRooms/Meshes/PoolPeopleStairs.fbx
+- Assets/PoolRooms/Textures/Pitfall/PitWalls/PitConcreteMidWalls.mat
+- Assets/PoolRooms/Materials/Bathrooms/GreyPlastic.mat
+- Assets/PoolRooms/Meshes/Palms/M_Palm_3.fbx
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler1_intakes_Normal.1001.png
+- Assets/PoolRooms/Materials/Floors/FloorTiles.mat
+- Assets/PoolRooms/Meshes/LifeGuard_Chair.FBX
+- Assets/PoolRooms/Materials/Apparatus/SilverHandle.mat
+- Assets/PoolRooms/Textures/Pitfall/Boiler1.mat
+- Assets/PoolRooms/Materials/HelmetGlass_1.mat
+- Assets/PoolRooms/Textures/Pitfall/Generator.mat
+- Assets/PoolRooms/Textures/Palms/Global/TexturesCom_Grass0103_1_seamless_S_1.png
+- Assets/PoolRooms/Textures/PoolStuff/PaintedMetal/PaintedMetal_D.png
+- Assets/PoolRooms/Sound/DoorUnlock.ogg
+- Assets/PoolRooms/Textures/Pitfall/PitWalls/pit_walls_ConcreteFlootAndCeiling_BaseMap.1001.png
+- Assets/PoolRooms/Materials/Palms/PalmLeaf 2.mat
+- Assets/PoolRooms/Textures/Bathrooms/SIgnClean.png
+- Assets/PoolRooms/Rooms/Sauna.prefab
+- Assets/PoolRooms/Textures/Ceiling/T_Soundproofed_Ceiling_sl4qlkd_2K_D.png
+- Assets/PoolRooms/Textures/Pitfall/PitWalls/pit_walls_ConcreteFlootAndCeiling_MaskMap.1001.png
+- Assets/PoolRooms/Materials/Bathrooms/WomenSign.mat
+- Assets/PoolRooms/Textures/FloorTiles/T_Concrete_Floor_Tiles_vl0gfdalw_2K_N.png
+- Assets/PoolRooms/Prefabs/WaterBehavior.prefab
+- Assets/PoolRooms/Flow/PoolRoomsArchitype.asset
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes6_MaskMap.1001.png
+- Assets/PoolRooms/Textures/PoolStuff/Tiles/Tiles_Normal.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes4_MaskMap.1001.png
+- Assets/PoolRooms/Scrap/PoolNet.asset
+- Assets/PoolRooms/Sound/PoolRoomsFirstTime.wav
+- Assets/PoolRooms/Dummies/EntranceTeleportA.prefab
+- Assets/PoolRooms/Textures/PoolStuff/Tiles/Tiles_Base_Color.png
+- Assets/PoolRooms/Rooms/PoolEntrance.prefab
+- Assets/PoolRooms/Animators/BathroomStallDoor.controller
+- Assets/PoolRooms/Textures/Ceiling/T_Soundproofed_Ceiling_sl4qlkd_2K_N.png
+- Assets/PoolRooms/Textures/PoolBorder/pool_border_Grout_MaskMap.1001.png
+- Assets/PoolRooms/Rooms/ShallowPool.prefab
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_GeneratorHolders_Normal.1001.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes4_Normal.1001.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pump2_Normal.1001.png
+- Assets/PoolRooms/Animators/LockerDoor.controller
+- Assets/PoolRooms/Meshes/Palms/M_Palm_13.fbx
+- Assets/PoolRooms/Textures/PoolStuff/PlasterA/PlasterB_normal.png
+- Assets/PoolRooms/Materials/PoolStuff/Other/PlasterB_basecolor.mat
+- Assets/PoolRooms/Materials/Bathrooms/Soap.mat
+- Assets/PoolRooms/Prefabs/BigDoorSpawner.prefab
+- Assets/PoolRooms/Textures/Palms/Palm/Leaf/Palm_Leaf.TGA
+- Assets/PoolRooms/Meshes/Wall_Long.FBX
+- Assets/PoolRooms/Animators/HangingLightOn.anim
+- Assets/PoolRooms/Materials/Apparatus/TubeVent.mat
+- Assets/PoolRooms/Textures/Bathrooms/MenSign.png
+- Assets/PoolRooms/Prefabs/LockerDoor.prefab
+- Assets/PoolRooms/Materials/Glass/DoorGlass.mat
+- Assets/PoolRooms/Materials/Window/WindowB.mat
+- Assets/PoolRooms/Materials/PoolStuff/Plaster_Blue.mat
+- Assets/PoolRooms/Prefabs/Pools/JumpPanel.prefab
+- Assets/PoolRooms/Materials/WallAndFloor/ConcreteBluePint.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pump2_MaskMap.1001.png
+- Assets/PoolRooms/Materials/PoolStuff/PaintedMetal.mat
+- Assets/PoolRooms/Rooms/Bathroom.prefab
+- Assets/PoolRooms/Textures/PoolBorder/pool_border_Grout_Normal.1001.png
+- Assets/PoolRooms/Flow/PoolRoom_Standard_Doorway.asset
+- Assets/PoolRooms/DoorBlockers/TileRoomBlockerWithExit.prefab
+- Assets/PoolRooms/Textures/PoolBorder/pool_border_PoolStone_Normal.1001.png
+- Assets/PoolRooms/Meshes/LethalLight.fbx
+- Assets/PoolRooms/Dummies/BigDoor.prefab
+- Assets/PoolRooms/Meshes/ToiletStructures.fbx
+- Assets/PoolRooms/Textures/Pipes/PipesTex.png
+- Assets/PoolRooms/Materials/Bathrooms/BlackPlastic.mat
+- Assets/PoolRooms/Materials/BreakerDummy.mat
+- Assets/PoolRooms/Dummies/LungApparatus.prefab
+- Assets/PoolRooms/Meshes/Palms/M_Palm_6.fbx
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Railing_MaskMap.1001.png
+- Assets/PoolRooms/Rooms/4WayTunnel.prefab
+- Assets/PoolRooms/DoorBlockers/ConcreteRoomBlockerWithWindow.prefab
+- Assets/PoolRooms/Sprite/HandLadderIcon.asset
+- Assets/PoolRooms/Materials/PoolStuff/Other/PaintedMetal_D.mat
+- Assets/PoolRooms/DoorBlockers/TunnelBlocker.prefab
+- Assets/PoolRooms/DoorBlockers/ConcreteRoomBlocker.prefab
+- Assets/PoolRooms/Rooms/WaveRoom.prefab
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Railing_Normal.1001.png
+- Assets/PoolRooms/Materials/Bathrooms/FloorCeramic.mat
+- Assets/PoolRooms/Meshes/Palms/Materials/Bark.mat
+- Assets/PoolRooms/Textures/Pitfall/Boiler2_intake.mat
+- Assets/PoolRooms/Sprite/ScrapItemIcon2.asset
+- Assets/PoolRooms/Water/Textures/water 0399normal.jpg
+- Assets/PoolRooms/DoorBlockers/ConcreteRoomBlockerWithShelf.prefab
+- Assets/PoolRooms/Meshes/Palms/M_Palm_14.fbx
+- Assets/PoolRooms/Meshes/wet floor sign.fbx
+- Assets/PoolRooms/DoorBlockers/LockerRoomBlockerWithExit.prefab
+- Assets/PoolRooms/Materials/Bathrooms/Cromox.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler1_Normal.1001.png
+- Assets/PoolRooms/Prefabs/Scrap/PoolBall.prefab
+- Assets/PoolRooms/Materials/Palms/PalmTrunk.mat
+- Assets/PoolRooms/Flow/PoolLockerRooms.asset
+- Assets/PoolRooms/Materials/Stone/Stones.mat
+- Assets/PoolRooms/Textures/StuccoWall/T_Stucco_Facade_wi5hccujw_2K_N.png
+- Assets/PoolRooms/Water/Shaders/3WaveGenerator.shadersubgraph
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes7_MaskMap.1001.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_GeneratorWood_Normal.1001.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Generator_BaseMap.1001.png
+- Assets/PoolRooms/Meshes/Materials/01___Default.mat
+- Assets/PoolRooms/Dummies/PoolRooms_TabletopItems_DUMMY.asset
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler1_MaskMap.1001.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_GeneratorHolders_BaseMap.1001.png
+- Assets/PoolRooms/Water/Textures/HDRP-FreeWater 2.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler2_intakes_MaskMap.1001.png
+- Assets/PoolRooms/Prefabs/StorageShelfSpawn.prefab
+- Assets/PoolRooms/Sound/DropCardboardBox.ogg
+- Assets/PoolRooms/Dummies/SteamValve.prefab
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Generator_Normal.1001.png
+- Assets/PoolRooms/Scrap/LifeBuoy.asset
+- Assets/PoolRooms/Prefabs/LockerLong.prefab
+- Assets/PoolRooms/Dummies/SteelDoorMapModel.prefab
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler2_intakes_BaseMap.1001.png
+- Assets/PoolRooms/Scrap/PoolBall.asset
+- Assets/PoolRooms/Textures/WoodWall/T_Wooden_Planks_ucvlaejg_2K_N.png
+- Assets/PoolRooms/Materials/Metal/DoorMetal.mat
+- Assets/PoolRooms/Materials/Items/Netting.mat
+- Assets/PoolRooms/Animators/HangingLightOff.anim
+- Assets/PoolRooms/Water/Textures/Send_Normals.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes7_Normal.1001.png
+- Assets/PoolRooms/Materials/Floors/FloorTilesSmall.mat
+- Assets/PoolRooms/Prefabs/BreakerBox.prefab
+- Assets/PoolRooms/Textures/Pitfall/PitWalls/pit_walls_ConcreteMidWalls_MaskMap.1001.png
+- Assets/PoolRooms/Textures/Pitfall/Boiler2.mat
+- Assets/PoolRooms/Materials/Bathrooms/SignTrash.mat
+- Assets/PoolRooms/Textures/PoolStuff/Metal01/PaintedMetalBlack_basecolor.png
+- Assets/PoolRooms/Textures/PoolBorder/pool_border_Grout_BaseMap.1001.png
+- Assets/PoolRooms/Materials/Bathrooms/SinkCeramic.mat
+- Assets/PoolRooms/Rooms/LockerRoom2.prefab
+- Assets/PoolRooms/Sound/MoveThroughWater.ogg
+- Assets/PoolRooms/Meshes/IndoorCealingLightTL.FBX
+- Assets/PoolRooms/Prefabs/Toilet.prefab
+- Assets/PoolRooms/Textures/Screens/CLAUDE-MONET-FIELD-OF-POPPIES-GIVERNY-1.png
+- Assets/PoolRooms/Textures/PoolWallTile/T_Swimming_Pool_Tiles_udkndbdg_2K_N.png
+- Assets/PoolRooms/Materials/PoolStuff/Plastic_Green.mat
+- Assets/PoolRooms/Textures/Pitfall/PitWalls/pit_walls_ConcreteFlootAndCeiling_Normal.1001.png
+- Assets/PoolRooms/Meshes/Bench_Wood_Locker.obj
+- Assets/PoolRooms/Prefabs/PoolRoomsDoor.prefab
+- Assets/PoolRooms/Textures/PoolStuff/PaintedMetal/PaintedMetal_N.png
+- Assets/PoolRooms/Textures/Particles/splash1.TGA
+- Assets/PoolRooms/Textures/Pitfall/Pipes6.mat
+- Assets/PoolRooms/Textures/PoolTiles/T_White_Ceramic_Tiles_uhrjcdaew_2K_N.png
+- Assets/PoolRooms/Materials/Walls/WhiteTiles.mat
+- Assets/PoolRooms/Meshes/Palms/M_Palm_16.fbx
+- Assets/PoolRooms/Textures/Concrete/T_Worn_Concrete_Floor_viyjde3_2K_N.png
+- Assets/PoolRooms/Textures/WoodWall/T_woodplank_MTAODPR.png
+- Assets/PoolRooms/Materials/PoolStuff/Plaster.mat
+- Assets/PoolRooms/Materials/Bathrooms/SignAir.mat
+- Assets/PoolRooms/Textures/PoolWallTile/T_PoolWallTile_MTAODPR.png
+- Assets/PoolRooms/Materials/Apparatus/SteelBar.mat
+- Assets/PoolRooms/Textures/Apparatus/TexturesCom_Metal_GalvanizedSteel_Old_512_normal.png
+- Assets/PoolRooms/Animators/CeilingFanSpin.anim
+- Assets/PoolRooms/DoorBlockers/StuccoRoomBlockerWithExit.prefab
+- Assets/PoolRooms/Materials/PoolStuff/Other/Line002Mat.mat
+- Assets/PoolRooms/Prefabs/CealingLight.prefab
+- Assets/PoolRooms/Rooms/LockerRoomHuge.prefab
+- Assets/PoolRooms/Textures/Pitfall/Boiler1_Intake.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler2_Normal.1001.png
+- Assets/PoolRooms/Textures/Items/uv_diffuse.jpg
+- Assets/PoolRooms/Textures/Pitfall/Pump1.mat
+- Assets/PoolRooms/Prefabs/PoolRoomStairs.prefab
+- Assets/PoolRooms/Materials/PoolStuff/Other/Light.mat
+- Assets/PoolRooms/Scrap/WetFloorSign.asset
+- Assets/PoolRooms/Textures/Concrete/T_Worn_Concrete_Floor_viyjde3_2K_D 1.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes7_BaseMap.1001.png
+- Assets/PoolRooms/Textures/Bathrooms/WoodTexture.png
+- Assets/PoolRooms/Water/Textures/9aeedfa5f8f587df26793fe3d5e40a2a25551306.jpeg
+- Assets/PoolRooms/Meshes/BathroomWomen.FBX
+- Assets/PoolRooms/DoorBlockers/PitfallRoomBlockerWithExit.prefab
+- Assets/PoolRooms/Materials/Bathrooms/PlasticBlue.mat
+- Assets/PoolRooms/Textures/SmallTiles/T_Small_Square_Tiles_ujylbbifw_2K_D.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler1_intakes_MaskMap.1001.png
+- Assets/PoolRooms/Textures/PoolTile/T_Swimming_Pool_Tiles_tlfmffydy_2K_D.png
+- Assets/PoolRooms/Materials/DoorRadar.mat
+- Assets/PoolRooms/DoorBlockers/LockerRoomBlocker.prefab
+- Assets/PoolRooms/Meshes/Materials/GrayConcrete_diffuse.mat
+- Assets/PoolRooms/Prefabs/LockerL.prefab
+- Assets/PoolRooms/Textures/Items/NormalMap.png
+- Assets/PoolRooms/Materials/Bathrooms/WhitePlastic.mat
+- Assets/PoolRooms/Materials/PoolStuff/Other/BenchMat.mat
+- Assets/PoolRooms/Materials/Apparatus/ClosetRedDoor.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pump1_MaskMap.1001.png
+- Assets/PoolRooms/Prefabs/PalmPlanter.prefab
+- Assets/PoolRooms/Prefabs/SkyLight.prefab
+- Assets/PoolRooms/Prefabs/PalmPlanter2.prefab
+- Assets/PoolRooms/Meshes/Palms/M_Palm_15.fbx
+- Assets/PoolRooms/Prefabs/ApparatusStation.prefab
+- Assets/PoolRooms/Meshes/Fan/Fan_1.fbx
+- Assets/PoolRooms/DoorBlockers/EntranceBlocker.prefab
+- Assets/PoolRooms/Textures/Stone/rock.png
+- Assets/PoolRooms/Textures/SmallTiles/T_Small_Square_Tiles_ujylbbifw_2K_N.png
+- Assets/PoolRooms/Materials/Apparatus/BlackRubber.mat
+- Assets/PoolRooms/Sound/DropPlastic2.ogg
+- Assets/PoolRooms/Meshes/Materials/BenchMat.mat
+- Assets/PoolRooms/Animators/PoolDoorOpen.anim
+- Assets/PoolRooms/Flow/PoolEntrance.asset
+- Assets/PoolRooms/DoorBlockers/ConcreteRoomBlockerWithExit.prefab
+- Assets/PoolRooms/Animators/LockerDoorClose.anim
+- Assets/PoolRooms/Textures/Pitfall/PitWalls/PitConcreteFloor.mat
+- Assets/PoolRooms/Animators/LockerDoorOpen.anim
+- Assets/PoolRooms/Meshes/Materials/PlasterB_basecolor.mat
+- Assets/PoolRooms/Prefabs/Pools/FouldingChair.prefab
+- Assets/PoolRooms/Textures/Pitfall/Pipes7.mat
+- Assets/PoolRooms/Prefabs/RoomWater.prefab
+- Assets/PoolRooms/Prefabs/EmptyDoorway.prefab
+- Assets/PoolRooms/Materials/PoolStuff/Plastic_Yellow.mat
+- Assets/PoolRooms/Materials/PoolStuff/Tiles.mat
+- Assets/PoolRooms/Meshes/ChairsCombined.fbx
+- Assets/PoolRooms/Textures/Concrete/T_Worn_Concrete_Floor_viyjde3_2K_D.png
+- Assets/PoolRooms/Textures/Particles/splash4.TGA
+- Assets/PoolRooms/DoorBlockers/3WayTunnelBlocker.prefab
+- Assets/PoolRooms/Animators/PoolDoor.controller
+- Assets/PoolRooms/Dummies/EntranceTeleportB.prefab
+- Assets/PoolRooms/Meshes/pool_rooms.fbx
+- Assets/PoolRooms/Textures/Screens/wivenhoe_park,_essex_1942.9.10.png
+- Assets/PoolRooms/Materials/PoolStuff/Other/plastic_fine_sand_grain_basecolor.mat
+- Assets/PoolRooms/Water/Ambient Water Sample (1).prefab
+- Assets/PoolRooms/Materials/PoolStuff/Other/GrayConcrete_diffuse.mat
+- Assets/PoolRooms/Textures/Palms/Palm/Trunk/Palm_Trunk.TGA
+- Assets/PoolRooms/Materials/Bathrooms/Mirror.mat
+- Assets/PoolRooms/Rooms/labyrinthTunnels.prefab
+- Assets/PoolRooms/Animators/StallDoorClose.anim
+- Assets/PoolRooms/Materials/PoolStuff/Plastic_White.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Railing_BaseMap.1001.png
+- Assets/PoolRooms/Textures/Items/Myach_DefaultMaterial_Normal.png
+- Assets/PoolRooms/Rooms/SwimmingPool.prefab
+- Assets/PoolRooms/Flow/PoolEnd.asset
+- Assets/PoolRooms/Rooms/PitFall.prefab
+- Assets/PoolRooms/Sound/LockpickPlayer.ogg
+- Assets/PoolRooms/Materials/Pool/PoolBorder.mat
+- Assets/PoolRooms/Materials/PoolStuff/Other/FlatMetal_basecolor.mat
+- Assets/PoolRooms/Sprite/HandIcon.asset
+- Assets/PoolRooms/Textures/Glass/fireglass.png
+- Assets/PoolRooms/DoorBlockers/PoolRoomBlocker.prefab
+- Assets/PoolRooms/Animators/HangingLight.controller
+- Assets/PoolRooms/Materials/PoolStuff/Other/01___Default.mat
+- Assets/PoolRooms/Textures/PoolBorder/pool_border_PoolStone_BaseMap.1001.png
+- Assets/PoolRooms/Dummies/BreakerBox.prefab
+- Assets/PoolRooms/Materials/Window/WindowA.mat
+- Assets/PoolRooms/Meshes/Myach.FBX
+- Assets/PoolRooms/Animators/Door.controller
+- Assets/PoolRooms/Textures/PoolWallTile/T_Swimming_Pool_Tiles_udkndbdg_2K_D.png
+- Assets/PoolRooms/Meshes/Palms/Materials/Trunk.mat
+- Assets/PoolRooms/Meshes/Materials/Line003Mat.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Intake2_MaskMap.1001.png
+- Assets/PoolRooms/Prefabs/Pools/TribuneStairs.prefab
+- Assets/PoolRooms/Prefabs/Pools/Wall_Long.prefab
+- Assets/PoolRooms/Prefabs/WallSteelDoorFrameHolder.prefab
+- Assets/PoolRooms/Textures/Palms/Palm/Trunk/Palm_Trunk_NR.TGA
+- Assets/PoolRooms/Textures/Ceiling/T_SoundProof_MTAODPR.png
+- Assets/PoolRooms/Textures/Bathrooms/WomenSign.png
+- Assets/PoolRooms/Meshes/Materials/Light.mat
+- Assets/PoolRooms/Water/Textures/HDRP-FreeWater 1.mat
+- Assets/PoolRooms/Meshes/PoolStair.FBX
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Intake2_BaseMap.1001.png
+- Assets/PoolRooms/Rooms/LockerRoom1.prefab
+- Assets/PoolRooms/Materials/WallAndFloor/Concrete.mat
+- Assets/PoolRooms/Prefabs/Pools/Wall_Short.prefab
+- Assets/PoolRooms/Flow/PoolRoomsTileSet_NoStairs.asset
+- Assets/PoolRooms/Materials/Bathrooms/PlasticMaterialYell.mat
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pump1_Normal.1001.png
+- Assets/PoolRooms/Sound/DropPlasticLarge.ogg
+- Assets/PoolRooms/Materials/Trigger.mat
+- Assets/PoolRooms/Textures/Pitfall/Railing.mat
+- Assets/PoolRooms/Sound/GrabClipboard.ogg
+- Assets/PoolRooms/Textures/Bathrooms/BathroomSign.png
+- Assets/PoolRooms/Meshes/Materials/plastic_fine_sand_grain_basecolor.mat
+- Assets/PoolRooms/Prefabs/Pools/LifeGuardChair.prefab
+- Assets/PoolRooms/Materials/Apparatus/DarkSteel.mat
+- Assets/PoolRooms/Materials/VentDummy.mat
+- Assets/PoolRooms/Texture2D/HandIcon.png
+- Assets/PoolRooms/Textures/Bathrooms/SignTrash.png
+- Assets/PoolRooms/Textures/Pipes/PipesTex 1.png
+- Assets/PoolRooms/Materials/PoolStuff/Other/Line003Mat.mat
+- Assets/PoolRooms/Materials/PoolStuff/Metal01.mat
+- Assets/PoolRooms/Prefabs/Scrap/LifeBuoy.prefab
+- Assets/PoolRooms/Textures/Pitfall/Pump2.mat
+- Assets/PoolRooms/Flow/PoolRoomsTileSet.asset
+- Assets/PoolRooms/Meshes/ShallowPoolPillars.fbx
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_GeneratorHolders_MaskMap.1001.png
+- Assets/PoolRooms/Sound/MetalSqueak2.ogg
+- Assets/PoolRooms/Textures/Metal/TexturesCom_Metal_SteelBattered_512_albedo.png
+- Assets/PoolRooms/Prefabs/Pools/Pillar.prefab
+- Assets/PoolRooms/Textures/PoolStuff/Metal01/PaintedMetalBlack_normal.png
+- Assets/PoolRooms/Sound/PickUpPlasticBin.ogg
+- Assets/PoolRooms/Meshes/BathroomMen.FBX
+- Assets/PoolRooms/Dummies/PoolRooms_GeneralItemClass_DUMMY.asset
+- Assets/PoolRooms/Prefabs/PoolBench.prefab
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Pipes9_BaseMap.1001.png
+- Assets/PoolRooms/Meshes/StorageShelfContainer.fbx
+- Assets/PoolRooms/DoorBlockers/3WayTunnelBlockerWithExit.prefab
+- Assets/PoolRooms/Prefabs/Pools/Bench.prefab
+- Assets/PoolRooms/Textures/Palms/Palm/Leaf/Palm_Leaf_2.TGA
+- Assets/PoolRooms/Textures/PoolStuff/PlasterA/PlasterB_basecolor.png
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler1_BaseMap.1001.png
+- Assets/PoolRooms/Materials/Bathrooms/WoodTexture.mat
+- Assets/PoolRooms/Materials/PoolStuff/Plastic_Red.mat
+- Assets/PoolRooms/Textures/Bathrooms/FloorTexture.png
+- Assets/PoolRooms/Meshes/Materials/PaintedMetal_D.mat
+- Assets/PoolRooms/Meshes/JumpPanel.FBX
+- Assets/PoolRooms/Materials/Items/WetSign.mat
+- Assets/PoolRooms/Meshes/Wall_Short.FBX
+- Assets/PoolRooms/Materials/PoolStuff/Plastic_Blue.mat
+- Assets/PoolRooms/Textures/StuccoWall/T_Stucco_MTAODPR.png
+- Assets/PoolRooms/Textures/FloorTiles/TileFloor.jpg
+- Assets/PoolRooms/Sound/GrabCardboardBox.ogg
+- Assets/PoolRooms/Textures/Pitfall/PitWalls/pit_walls_ConcreteMidWalls_BaseMap.1001.png
+- Assets/PoolRooms/Rooms/ShowerRoom.prefab
+- Assets/PoolRooms/Rooms/ApparatusRoom.prefab
+- Assets/PoolRooms/Sound/slideDoorMove.ogg
+- Assets/PoolRooms/Prefabs/PoolLadder.prefab
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_Boiler1_intakes_BaseMap.1001.png
+- Assets/PoolRooms/Textures/Items/net.png
+- Assets/PoolRooms/Prefabs/Fan_1.prefab
+- Assets/PoolRooms/Flow/PoolHallwaysArchitype.asset
+- Assets/PoolRooms/Textures/Pitfall/pit_fall_GeneratorWood_BaseMap.1001.png
+- Assets/PoolRooms/Textures/Palms/Palm/Leaf/Palm_Bark.TGA
+- Assets/PoolRooms/Sound/DropClipboard.ogg
+- Assets/PoolRooms/Materials/Palms/PalmBark.mat
+- Assets/PoolRooms/Textures/Bathrooms/Ceiling.png
+Dependencies: []

@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using Unity.Netcode;
-using UnityEngine;
-using GameNetcodeStuff;
-using System.ComponentModel;
+﻿using UnityEngine;
 
 namespace PoolRooms
 {

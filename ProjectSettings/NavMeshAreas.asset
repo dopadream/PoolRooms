@@ -2,8 +2,8 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!126 &1
 NavMeshProjectSettings:
-  m_ObjectHideFlags: 0
   serializedVersion: 2
+  m_ObjectHideFlags: 0
   areas:
   - name: Walkable
     cost: 1
@@ -21,55 +21,55 @@ NavMeshProjectSettings:
     cost: 1
   - name: Climb
     cost: 1
-  - name: 
+  - name: Overhead
     cost: 1
-  - name: 
+  - name: Trap
+    cost: 3
+  - name: Elevator
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
+  - name:
     cost: 1
-  - name: 
-    cost: 1
-  m_LastAgentTypeID: -887442657
+  m_LastAgentTypeID: 1479372276
   m_Settings:
   - serializedVersion: 3
     agentTypeID: 0

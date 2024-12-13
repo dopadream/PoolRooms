@@ -6,17 +6,12 @@ using HarmonyLib;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Reflection;
-using Unity.Netcode;
 using UnityEngine;
 using static LethalLib.Modules.Levels;
 using LethalLevelLoader;
-using DunGen.Graph;
 using UnityEngine.UIElements.Collections;
 using GameNetcodeStuff;
-using LethalLib.Modules;
-using System.Runtime.CompilerServices;
 
 namespace PoolRooms
 {
@@ -46,6 +41,7 @@ namespace PoolRooms
         private ConfigEntry<bool> configGuaranteed;
         private ConfigEntry<bool> configEnableCustomScrap;
         private ConfigEntry<bool> configUseCustomScrapGlobally;
+        private ConfigEntry<bool> configSpawnBonusScrap;
 
         // Config for the custom scrap weights
         private ConfigEntry<int> configPoolBallWeighting;
